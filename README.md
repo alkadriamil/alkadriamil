@@ -23,10 +23,10 @@ I'm Amil Al Kadri, a passionate data scientist and machine learning enthusiast. 
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/alkadriamil">
+<a href="https://s38yf0-amil-kadri.shinyapps.io/alhamdulillah/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkadriamil&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/alkadriamil">
+<a href="https://s38yf0-amil-kadri.shinyapps.io/ctr_produk/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alkadriamil&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Amil's GitHub Stats" />
 </a>
 
@@ -42,8 +42,8 @@ I'm Amil Al Kadri, a passionate data scientist and machine learning enthusiast. 
 
 ## 📫 Get in Touch
 
-- LinkedIn: [amil-al-kadri](https://www.linkedin.com/in/amil-al-kadri)
-- Medium: [amilalkadri.com](https://www.amilalkadri.com)
+- LinkedIn: [amil-al-kadri](www.linkedin.com/in/amil-alkadri-555325294)
+- Medium: [Amil Al Kadri](https://medium.com/@21611054)
 
 ## 🎉 Fun Fact
 

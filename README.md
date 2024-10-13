@@ -45,10 +45,6 @@ I'm Amil Al Kadri, a passionate data scientist and machine learning enthusiast. 
 - LinkedIn: [amil-al-kadri](www.linkedin.com/in/amil-alkadri-555325294)
 - Medium: [Amil Al Kadri](https://medium.com/@21611054)
 
-## 🎉 Fun Fact
-
-Did you know? I once developed a machine learning model to predict the perfect pizza toppings combination based on customer preferences. It turns out, pineapple on pizza is more divisive than we thought!
-
 ---
 
 ⭐️ From [alkadriamil](https://github.com/alkadriamil)
